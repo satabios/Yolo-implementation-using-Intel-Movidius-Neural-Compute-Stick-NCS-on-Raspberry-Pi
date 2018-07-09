@@ -1,0 +1,4 @@
+ncsdk_path=/opt/movidius
+ncs_lib_path=/usr/local/lib
+ncs_inc_path=/usr/local/include
+ncs_bin_path=/usr/local/bin

@@ -1,0 +1,14 @@
+Reading package lists...
+Building dependency tree...
+Reading state information...
+libboost-all-dev is already the newest version (1.58.0.1ubuntu1).
+The following packages were automatically installed and are no longer required:
+  libllvm4.0 libxfont2 linux-headers-4.10.0-28 linux-headers-4.10.0-28-generic
+  linux-headers-4.10.0-42 linux-headers-4.10.0-42-generic
+  linux-headers-4.13.0-26 linux-headers-4.13.0-26-generic
+  linux-image-4.10.0-28-generic linux-image-4.10.0-42-generic
+  linux-image-4.13.0-26-generic linux-image-extra-4.10.0-28-generic
+  linux-image-extra-4.10.0-42-generic linux-image-extra-4.13.0-26-generic
+  linux-signed-image-4.10.0-42-generic linux-signed-image-4.13.0-26-generic
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 10 not upgraded.
